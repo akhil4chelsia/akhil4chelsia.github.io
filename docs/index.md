@@ -1,4 +1,14 @@
-# Welcome to MkDocs
+# Menu
+
+main menu item
+
+## Sub menu
+
+sub menu item
+
+### sub sub menu
+
+sub sub menu items
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
