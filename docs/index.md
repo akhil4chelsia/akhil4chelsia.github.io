@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/akhil4chelsia/akhil4chelsia.github.io/images/photo.png" alt="Profile Picture" width="150" height="150">
+  <img src="https://github.com/akhil4chelsia/akhil4chelsia.github.io/blob/main/images/photo.png" alt="Profile Picture" width="150" height="150">
 </div>
 
 ## <div align="center">👨‍💼 CAREER SUMMARY</div>
@@ -30,7 +30,7 @@
 ## <div align="center">📜 CERTIFICATIONS</div>
 
 <div align="center">
-  [![Profile Picture](https://github.com/akhil4chelsia/akhil4chelsia.github.io/images/awssa03.png)](https://www.credly.com/badges/5e359967-a1dd-4adb-bcfc-095acfb1593d/linked_in?t=rm08cm)
+  [![Profile Picture](https://github.com/akhil4chelsia/akhil4chelsia.github.io/blob/main/images/awssa03.png)](https://www.credly.com/badges/5e359967-a1dd-4adb-bcfc-095acfb1593d/linked_in?t=rm08cm)
 </div>
 
 - [AWS Certified Solution Architect Associate]()
