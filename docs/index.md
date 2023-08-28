@@ -1,35 +1,77 @@
-# Menu
+# <div align="center">AKHIL T MURALIDHARAN</div>
+<div align="center">
+  <a href="mailto:akhiltmuralidharan@gmail.com">📧 Email</a> |
+  <a href="tel:+919495248085">📱 Mobile</a> |
+  <a href="https://www.linkedin.com/in/akhiltm">🔗 LinkedIn</a> |
+  <a href="https://github.com/akhil4chelsia">🐙 GitHub</a>
+</div>
 
-<a>
-test 1
-</a>
+<div align="center">
+  <img src="https://github.com/akhil4chelsia/akhil4chelsia.github.io/images/photo.png" alt="Profile Picture" width="150" height="150">
+</div>
 
-# Menu 2
+## <div align="center">👨‍💼 CAREER SUMMARY</div>
 
-- test
-main menu item
+12 years of full stack development experience across Cloud, Oil & Gas, Big Data, Networking, and CRM domains. An **AWS Certified Solution Architect Associate** currently leading a team of 6 developers. Proficient in **Golang, Java, Python, ReactJS, Flutter, Spring Boot**, and **AWS serverless**. Proven expertise in Agile Development, Test-Driven Development, and exceptional communication skills.
 
-# Sub menu
-sub menu item
+## <div align="center">🛠️ TECHNICAL SKILLS</div>
 
-### sub sub menu
+**Programming Languages**: Go, Java 8, Python 3.6, React JS, Flutter.  
+**Frameworks**: Spring Boot.  
+**Java Technologies**: JPA, JSP, JMS, Spring Boot.  
+**Big Data**: Hadoop, Map Reduce, HBase, Hive, Impala.  
+**Web Services**: REST (JAX-RS, Spring REST), SOAP.  
+**Databases**: Oracle, MySQL, Redis, DynamoDB, Elastic Search, Postgres.  
+**Build**: Gradle, Maven, Ant, Make.  
+**CI/CD**: Git, SVN, Jenkins, Kubernetes, Terraform.  
+**OS**: Windows, Linux, Mac.  
+**Cloud Technologies**: AWS (Serverless development), Azure Cosmos DB, OpenShift, Kubernetes.
 
-sub sub menu items
+## <div align="center">📜 CERTIFICATIONS</div>
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+<div align="center">
+  [![Profile Picture](https://github.com/akhil4chelsia/akhil4chelsia.github.io/images/awssa03.png)](https://www.credly.com/badges/5e359967-a1dd-4adb-bcfc-095acfb1593d/linked_in?t=rm08cm)
+</div>
 
-## Commands
+- [AWS Certified Solution Architect Associate]()
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## <div align="center">🎓 EDUCATIONAL QUALIFICATION</div>
 
-## Project layout
+- B.Tech in Computer Science and Engineering (2011)  
+  Mahatma Gandhi University College of Engineering, Kerala  
+  CPI: 69%
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## <div align="center">💼 WORK EXPERIENCE</div>
 
-### made with mkdocs
+### Advisory Software Engineer  
+**IBM India Pvt Ltd, Bangalore**  
+*July 2021 – Present*  
+*Domain: Public Cloud Services*
+
+### Advisory Software Engineer  
+**IBM India Pvt Ltd, Kochi**  
+*July 2021 – Present*  
+*Domain: Cloud & SaaS Development*
+
+<!-- More work experiences... -->
+
+## <div align="center">💡 PROJECT HIGHLIGHTS</div>
+
+### Project: API Connect, IBM Cloud
+
+- **Role**: Advisory Software Engineer
+- **Technologies**: Go, NodeJS, ReactJS, Kubernetes
+
+API Connect is an enterprise-grade platform for creating, securing, managing, and analyzing custom APIs. As an Advisory Software Engineer, I design and implement new features, lead a team of developers, and resolve customer issues.
+
+<!-- More projects... -->
+
+## <div align="center">🧑‍💼 PERSONAL DETAILS</div>
+
+- **Gender**: Male
+- **Marital Status**: Single
+- **Date of Birth**: 17th May 1989
+- **Languages Known**: English, Hindi, Malayalam
+
+<div align="center">Bangalore | AKHIL T MURALIDHARAN</div>
+x

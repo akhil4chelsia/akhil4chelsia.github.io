@@ -1,36 +1,55 @@
-site_name: My Docs
-nav:
-    - Home: 'index.md'
-    - 'User Guide':
-        - 'Writing your docs': 'writing-your-docs.md'
-        - 'Styling your docs': 'styling-your-docs.md'
-    - About:
-        - 'License': 'license.md'
-        - 'Release Notes': 'release-notes.md'
+site_name: Akhil T Muralidharan
 
-markdown_extensions:
-  - toc:
-      permalink: true
-      title: On this page
-
-theme:
+theme: 
   name: material
   features:
-    - navigation.instant
-    - navigation.tracking
-    - navigation.path
-  palette: 
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+language: en
+palette:
+  - scheme: default
+    toggle:
+      icon: material/toggle-switch-off-outline
+      name: Switch to dark mode
+    primary: teal
+    accent: purple
+  - scheme: default
+    toggle:
+      icon: material/toggle-switch
+      name: Switch to light mode
+    primary: teal
+    accent: lime
+extra: 
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/akhil4chelsia
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/akhiltm/
+    - icon: fontawesome/brands/wordpress
+      link: https://akhilt.wordpress.com/
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences 
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji 
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+copyright: |
+  &copy; 2023 <a href="https://www.linkedin.com/in/akhiltm/" target="_blank" rel="noopener"> Akhil T Muralidharan </a>
