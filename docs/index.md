@@ -1,13 +1,14 @@
 # <div align="center">AKHIL T MURALIDHARAN</div>
+
+<div align="center">
+  <img src="https://github.com/akhil4chelsia/akhil4chelsia.github.io/blob/main/images/photo.png?raw=true" alt="Profile Picture" width="150" height="150">
+</div>
+
 <div align="center">
   <a href="mailto:akhiltmuralidharan@gmail.com">📧 Email</a> |
   <a href="tel:+919495248085">📱 Mobile</a> |
   <a href="https://www.linkedin.com/in/akhiltm">🔗 LinkedIn</a> |
   <a href="https://github.com/akhil4chelsia">🐙 GitHub</a>
-</div>
-
-<div align="center">
-  <img src="https://github.com/akhil4chelsia/akhil4chelsia.github.io/blob/main/images/photo.png?raw=true" alt="Profile Picture" width="150" height="150">
 </div>
 
 ## <div align="center">👨‍💼 CAREER SUMMARY</div>
@@ -30,10 +31,8 @@
 ## <div align="center">📜 CERTIFICATIONS</div>
 
 <div align="center">
-  [![Profile Picture](https://github.com/akhil4chelsia/akhil4chelsia.github.io/blob/main/images/awssa03.png?raw=true)](https://www.credly.com/badges/5e359967-a1dd-4adb-bcfc-095acfb1593d/linked_in?t=rm08cm)
+  <img src="https://github.com/akhil4chelsia/akhil4chelsia.github.io/blob/main/images/awssa03.png?raw=true" alt="Profile Picture" width="150" height="150">
 </div>
-
-- [AWS Certified Solution Architect Associate]()
 
 ## <div align="center">🎓 EDUCATIONAL QUALIFICATION</div>
 
